@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ca9f9a3-96cc-475f-bf08-41260be2c0aa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response3.json" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1SSby8uwylkrGdvoJFsPXt3gtDs" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/user" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="DTears.兰陵" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="age" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/xml" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="DTears.兰陵" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="age" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="DTears.兰陵" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="age" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.rest-api#1">
+    <configuration name="rest-api#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Chapter3-1-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simon.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simon.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api#1" />
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ca9f9a3-96cc-475f-bf08-41260be2c0aa" name="Default Changelist" comment="" />
+      <created>1571560195676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571560195676</updated>
+      <workItem from="1571560197039" duration="1137000" />
+      <workItem from="1571561439526" duration="749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

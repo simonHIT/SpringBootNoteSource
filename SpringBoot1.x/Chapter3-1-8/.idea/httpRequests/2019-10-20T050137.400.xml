@@ -1,0 +1,10 @@
+<Map>
+    <timestamp>1571562097626</timestamp>
+    <status>400</status>
+    <error>Bad Request</error>
+    <exception>org.springframework.http.converter.HttpMessageNotReadableException</exception>
+    <message>Required request body is missing: public com.simon.springboot.entities.User
+        com.simon.springboot.controller.UserController.create(com.simon.springboot.entities.User)
+    </message>
+    <path>/user</path>
+</Map>
